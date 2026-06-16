@@ -3,7 +3,7 @@ internal class Program
     static void Main(string[] args)
     {
         Console.WriteLine("Lecc16_Act2_Inc1");
-        Console.WriteLine("Yuleydi Ajxup - 2");
+        Console.WriteLine("Yuleydi Ajxup - 2 ");
 
         int[] edadesPer = new int[7];
         int cantPerMa = 0;
